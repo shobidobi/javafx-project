@@ -4,81 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f0031ae-79f6-4da1-9a1a-c1804c304608" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/1-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/1-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/1-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/1-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/10-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/10-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/10-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/10-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/11-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/11-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/11-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/11-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/12-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/12-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/12-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/12-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/13-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/13-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/13-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/13-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/2-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/2-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/2-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/2-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/3-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/3-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/3-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/3-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/4-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/4-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/4-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/4-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/5-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/5-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/5-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/5-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/6-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/6-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/6-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/6-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/7-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/7-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/7-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/7-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/8-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/8-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/8-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/8-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/9-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/9-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/9-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/9-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/MainBoard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/MyBoard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/boardAgainst.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/board_Le_Ri.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/deckImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/joker-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/joker-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/logoR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/images/remi-main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxproject/hello-view.fxml" afterDir="false" />
+    <list default="true" id="7f0031ae-79f6-4da1-9a1a-c1804c304608" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/javafxproject/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxproject/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,23 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ariel/IdeaProjects/javafx-project/src/main/resources/com/example/javafxproject/hello-view.fxml&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.345977&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ariel/IdeaProjects/javafx-project/src/main/resources/com/example/javafxproject/hello-view.fxml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.345977",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ariel\IdeaProjects\javafx-project\src\main\java\com\example\javafxproject" />
@@ -143,10 +72,28 @@
       <workItem from="1697717100197" duration="7675000" />
       <workItem from="1697780666795" duration="7705000" />
       <workItem from="1697915527581" duration="621000" />
+      <workItem from="1697964269356" duration="421000" />
+      <workItem from="1697964699366" duration="4240000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1697964557223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697964557223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
