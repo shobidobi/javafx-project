@@ -1,4 +1,4 @@
-package com.example.javafxproject;
+package front;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
