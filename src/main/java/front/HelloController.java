@@ -7,6 +7,7 @@ import javafx.scene.image.ImageView;
 
 import java.io.IOException;
 
+
 public class HelloController {
 
     @FXML
@@ -15,12 +16,12 @@ public class HelloController {
     @FXML
     private Button welcomeText;
     @FXML
-    public void initialize() throws IOException {
-        String path = "file:///C:\\Users\\ariel\\IdeaProjects\\javafx-project\\src\\main\\java\\front\\images\\9-black.png";
-        // Load the image from your project's resources
-        Image image1 = new Image(path);
-
-        // Set the image to the ImageView
-        image.setImage(image1);
+    public void initialize()throws IOException {
+//        String path = "front/images/9-black.png9-black.png";
+//        // Load the image from your project's resources
+//        Image image1 = new Image(path);
+//
+//        // Set the image to the ImageView
+//        image.setImage(image1);
     }
 }

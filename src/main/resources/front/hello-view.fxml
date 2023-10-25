@@ -5,13 +5,17 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="front.HelloController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="front.HelloController">
    <children>
-      <Button fx:id="welcomeText" layoutX="274.0" layoutY="337.0" mnemonicParsing="false" text="Button" />
-      <ImageView fx:id="image" fitHeight="150.0" fitWidth="200.0" layoutX="248.0" layoutY="74.0" pickOnBounds="true" preserveRatio="true">
-         <image>
-            <Image url="@../front/images/9-black.png" />
-         </image>
-      </ImageView>
+      <Button fx:id="welcomeText" layoutX="59.0" layoutY="111.0" mnemonicParsing="false" prefHeight="231.0" prefWidth="364.0" text="Button">
+<!--         <ImageView fx:id="image" fitHeight="150.0" fitWidth="200.0" layoutX="248.0" layoutY="74.0" pickOnBounds="true"-->
+<!--                    preserveRatio="true">-->
+<!--&lt;!&ndash;            <Image url="@../../java/front/images/9-black.png"/>&ndash;&gt;-->
+<!--         </ImageView>-->
+      </Button>
+       <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="84.0" layoutY="137.0" pickOnBounds="true"
+                  preserveRatio="true">
+           <Image url="@images/9-black.png"/>
+       </ImageView>
    </children>
 </AnchorPane>
