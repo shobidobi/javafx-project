@@ -10,202 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f0031ae-79f6-4da1-9a1a-c1804c304608" name="Changes" comment="create a jar file">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/HelloResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/entity/DetailUserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/entity/GameHistoryEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/entity/GamesEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/entity/PasswordsEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/entity/TryLoginEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/entity/UsersEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/Logic/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/Logic/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/Logic/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/Logic/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/Logic/GameStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/Logic/Law.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/Logic/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/Logic/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/Logic/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/Logic/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/front/DraggableMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/front/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/front/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/front/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/front/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/front/TryApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/front/UserDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/hhh.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/1-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/1-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/1-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/1-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/10-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/10-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/10-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/10-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/11-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/11-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/11-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/11-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/12-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/12-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/12-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/12-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/13-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/13-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/13-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/13-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/2-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/2-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/2-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/2-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/3-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/3-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/3-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/3-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/4-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/4-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/4-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/4-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/5-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/5-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/5-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/5-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/6-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/6-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/6-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/6-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/7-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/7-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/7-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/7-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/8-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/8-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/8-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/8-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/9-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/9-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/9-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/9-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/MainBoard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/MyBoard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/boardAgainst.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/board_Le_Ri.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/deckImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/joker-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/joker-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/logoR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/images/remi-main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/login.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/GameStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Law.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/DetailUserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/GameHistoryEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/GamesEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/PasswordsEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/TryLoginEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/UsersEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/front/DraggableMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/1-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/1-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/1-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/1-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/10-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/10-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/10-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/10-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/11-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/11-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/11-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/11-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/12-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/12-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/12-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/12-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/13-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/13-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/13-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/13-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/2-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/2-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/2-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/2-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/3-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/3-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/3-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/3-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/4-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/4-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/4-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/4-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/5-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/5-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/5-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/5-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/6-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/6-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/6-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/6-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/7-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/7-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/7-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/7-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/8-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/8-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/8-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/8-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/9-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/9-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/9-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/9-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/MainBoard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/MyBoard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/boardAgainst.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/board_Le_Ri.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/deckImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/joker-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/joker-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/logoR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/front/images/remi-main.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/front/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/front/Scene_Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/register.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/javafx_project_jar/javafx-project.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javafx_project_jar/javafx-project.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/front/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/front/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/front/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/front/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/front/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/front/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javafx/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/front/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafx/src/main/java/front/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/front/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafx/src/main/java/front/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/front/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafx/src/main/java/front/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/front/TryApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafx/src/main/java/front/TryApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafx/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/src/main/resources/front/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/javafx/src/main/resources/front/login.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,8 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
-        <option value="FxmlFile" />
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -416,7 +231,13 @@
       <workItem from="1699730028633" duration="1129000" />
       <workItem from="1699801585587" duration="3973000" />
       <workItem from="1699887721278" duration="4683000" />
-      <workItem from="1699962068733" duration="3467000" />
+      <workItem from="1699962068733" duration="18988000" />
+      <workItem from="1700405406371" duration="5269000" />
+      <workItem from="1700506673930" duration="7858000" />
+      <workItem from="1700577005906" duration="477000" />
+      <workItem from="1700765980994" duration="608000" />
+      <workItem from="1701181895849" duration="1763000" />
+      <workItem from="1701293948480" duration="1694000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1697964557223</created>
@@ -446,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698586460278</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create a jar file">
+      <option name="closed" value="true" />
+      <created>1700117579994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700117579994</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
